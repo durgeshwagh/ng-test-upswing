@@ -6,7 +6,62 @@
       "author": "typicode"
     }
   ],
-  "products": [],
+  "products": [
+    {
+      "name": "Apple",
+      "price": 435345,
+      "category": "Mobile",
+      "id": 1
+    },
+    {
+      "name": "Samsung",
+      "price": 32998,
+      "category": "Mobile",
+      "id": 2
+    },
+    {
+      "name": "S23",
+      "price": 454364,
+      "category": "Laptop",
+      "id": 3
+    },
+    {
+      "name": "Lenove",
+      "price": 435454,
+      "category": "Laptop",
+      "id": 4
+    },
+    {
+      "name": "HP",
+      "price": 4543543,
+      "category": "Laptop",
+      "id": 5
+    },
+    {
+      "name": "S23",
+      "price": 56234,
+      "category": "Mobile",
+      "id": 6
+    },
+    {
+      "name": "W11",
+      "price": 6446,
+      "category": "SmartWatch",
+      "id": 7
+    },
+    {
+      "name": "w23",
+      "price": 6767,
+      "category": "SmartWatch",
+      "id": 8
+    },
+    {
+      "name": "S11",
+      "price": 67464,
+      "category": "Mobile",
+      "id": 9
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
